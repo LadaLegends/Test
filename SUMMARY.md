@@ -14,6 +14,7 @@
 * [Plus подписка](a/plus.md)
 * [Рекомендуемые моды](a/mods/README.md)
   * [Эмоции](a/mods/emotes.md)
+* [Эксперименты](a/eksperimenty.md)
 * [Голосовой чат](a/voice.md)
 
 ## ИНТЕРЕСНОЕ <a href="#i" id="i"></a>
