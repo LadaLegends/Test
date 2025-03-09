@@ -1,8 +1,8 @@
 ---
+icon: hand-wave
 description: >-
   Добро пожаловать в официальную вики VanillaSuper! Здесь вы найдете всю
   необходимую информацию, чтобы комфортно играть на сервере.
-icon: hand-wave
 coverY: 0
 layout:
   cover:
@@ -22,11 +22,11 @@ layout:
 
 # Вступление
 
-### VanillaSuper - приватный, ванильный пиратский сервер. Находится на версии 1.20.6.
+### VanillaSuper — очевидно, крутой сервер.
 
 {% hint style="info" %}
-IP - `45.129.186.174:25589`\
-Версия - `Minecraft Java 1.20.6`
+IP - ???\
+Версия - `Minecraft Java 1.21.4`
 {% endhint %}
 
 

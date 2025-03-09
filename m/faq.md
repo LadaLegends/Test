@@ -1,6 +1,6 @@
 ---
-description: Ответы на самые частые вопросы
 icon: question
+description: Ответы на самые частые вопросы
 layout:
   title:
     visible: true
@@ -18,25 +18,9 @@ layout:
 
 <details>
 
-<summary>Сколько действует проходка?</summary>
-
-Проходка действует только на 1 сезон
-
-</details>
-
-<details>
-
-<summary>Как мне получить проходку?</summary>
-
-Для этого зайдите в раздел "Начать игру" и подайте заявку по ссылке
-
-</details>
-
-<details>
-
 <summary>Какая версия сервера?</summary>
 
-Java Edition 1.20.6
+Java Edition 1.21.4
 
 </details>
 
@@ -55,3 +39,4 @@ Java Edition 1.20.6
 Нет. В данный момент наш сервер не имеет такой возможности
 
 </details>
+
